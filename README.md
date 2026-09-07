@@ -1,306 +1,254 @@
-<!--
-  ============================================================
-  VISHWAJITH_OS — GitHub Profile README
-  Theme: Futuristic AI x Developer Terminal x RPG
-  ============================================================
--->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+VISHWAJITH_OS...;%3E+Loading+AI+Developer...;%3E+Systems+online+%E2%9C%93" alt="Typing animation" />
+VISHWAJITH GS
 
-<br/>
+AI/ML Engineer · Full-Stack Developer
 
-VISHWAJITH G S
+Building intelligent systems and practical software for real-world problems.
 
-AI/ML Student • Full-Stack Developer • Builder
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-🧠-00F7FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Full%20Stack-💻-00F7FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MERN-⚡-00F7FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Hackathons-🏆-00F7FF?style=for-the-badge&labelColor=0d1117" />
-
-[ ENTER PROFILE ] ↓
+<p>
+  <a href="https://github.com/VISHWAJITH-GS">
+    <img src="https://img.shields.io/badge/GitHub-VISHWAJITH--GS-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishwajithgs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishwajith%20GS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vishwajithgs006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-🧑‍💻 CHARACTER SHEET
+👨‍💻 About Me
 
-╭──────────────────────────────────────────╮
-│ PLAYER : VISHWAJITH G S                  │
-│ CLASS  : AI DEVELOPER                    │
-│ ORIGIN : Thiagarajar College of Engineering│
-│ LEVEL  : 03 (3rd Year)                   │
-╰──────────────────────────────────────────╯
+I'm a B.E. Computer Science Engineering (AI & ML) student at Thiagarajar College of Engineering, focused on building software systems that combine full-stack development, machine learning, and data-driven engineering.
 
-Stat
+class Vishwajith:
+    education = "B.E. CSE (AI & ML) @ Thiagarajar College of Engineering"
+    graduation = "2028"
+    cgpa = 8.66
 
-Level
+    interests = [
+        "Full-Stack Web Development",
+        "Machine Learning",
+        "Software Engineering"
+    ]
 
-🧠 AI / ML
+    currently = [
+        "Building full-stack platforms",
+        "Developing ML inference systems",
+        "Exploring scalable software architectures"
+    ]
 
-███████░░░
+    mindset = "Build → Measure → Improve"
 
-💻 Full Stack
+🛠️ Technical Skills
 
-████████░░
+Languages
 
-⚡ MERN
 
-███████░░░
 
-🧩 Problem Solving
 
-████████░░
+Machine Learning & Data
 
-🚀 Building Things
 
-██████████
 
-🐍 CONTRIBUTION GAME
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VISHWAJITH-GS/VISHWAJITH-GS/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VISHWAJITH-GS/VISHWAJITH-GS/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake game" src="https://raw.githubusercontent.com/VISHWAJITH-GS/VISHWAJITH-GS/output/github-contribution-grid-snake.svg" />
-</picture>
-
-A snake that eats my real contribution squares — generated automatically.
-
-</div>
-
-🎯 MISSION BOARD
-
-Mission
-
-Status
-
-🤖 Master Machine Learning
-
-🔄 In Progress
-
-🌐 Build Full-Stack Projects
-
-🔄 In Progress
-
-🧠 Build AI Applications
-
-🔄 In Progress
-
-🏆 Win More Hackathons
-
-🔄 Active
-
-🚀 Become a Better Engineer
-
-♾️ Never Ending
-
-🏆 ACHIEVEMENTS UNLOCKED
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-🏆 ACHIEVEMENT UNLOCKED
-
-HACKFEST WINNER
-
-</td>
-<td align="center" width="33%">
-
-🥇 ACHIEVEMENT UNLOCKED
-
-IEEE VIBE CODING CHALLENGE WINNER
-
-</td>
-<td align="center" width="33%">
-
-🔥 ACHIEVEMENT UNLOCKED
-
-TOP 10 — GDG HACKATHON
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📜 QUEST LOG — Experience</b></summary>
-
-<br/>
-
-QUEST COMPLETED
-
-Tarcin Robotics
-
-Duration: 1 Month
-Status: ✓ COMPLETED
-
-QUEST COMPLETED
-
-Ariv Executions
-
-Duration: 1 Month
-Status: ✓ COMPLETED
-
-</details>
-
-🧠 AI_CORE
-
-> AI_CORE STATUS: ACTIVE
-
-🧠 Machine Learning  | 
-🤖 Artificial Intelligence  | 
-📊 Data / Models  | 
-🔬 Experimentation  | 
-🚀 AI-Powered Applications
-
-⚔️ DEVELOPER ARSENAL
-
-<div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-Database
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-AI / ML
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-🎒 PROJECT INVENTORY
-
-<table>
-<tr>
-
-<td width="33%">
-
-🧩 PROJECT 01
-
-StockWise
-
-AI-powered inventory management and decision-support concept for supermarket retail.
-
-AI/ML • Full Stack • MERN
-
- VIEW CODE  •  LIVE 
-
-</td>
-
-<td width="33%">
-
-🧩 PROJECT 02
-
-GrowPilot
-
-AI-driven project concept focused on intelligent decision support and practical automation.
-
-AI • Full Stack • Data
-
- VIEW CODE  •  LIVE 
-
-</td>
-
-<td width="33%">
-
-🧩 PROJECT 03
-
-AI Applications
-
-Building practical AI-powered solutions through projects, hackathons, and experimentation.
-
-Python • AI/ML • Full Stack
-
- VIEW CODE  •  LIVE 
-
-</td>
-
-</tr>
-</table>
-
-📊 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VISHWAJITH-GS&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAJITH-GS&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWAJITH-GS&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://komarev.com/ghpvc/?username=VISHWAJITH-GS&color=00F7FF&style=flat" />
-
-</div>
-
-🛰️ LIVE SYSTEM STATUS
-
-┌─────────────────────────────────┐
-│ VISHWAJITH SYSTEM STATUS        │
-├─────────────────────────────────┤
-│ 🟢 Learning       ONLINE        │
-│ 🟢 Building       ONLINE        │
-│ 🟢 AI Research    ACTIVE        │
-│ 🟢 Hackathons     ACTIVE        │
-│ 🟢 Open Source    READY         │
-└─────────────────────────────────┘
-
-<details>
-<summary><b>🎮 SECRET LEVEL (Easter Egg)</b></summary>
-
-<br/>
-
-↑ ↑ ↓ ↓ ← → ← → B A
-
-You found the secret level. GitHub READMEs can't run JavaScript, so this
-isn't a real playable game — but if it were, you'd unlock this:
-
-🏆 ACHIEVEMENT UNLOCKED: "README EXPLORER"
-You read this far. That's rarer than you'd think.
-
-</details>
-
-<details>
-<summary><b>📚 Currently Learning</b></summary>
-
-<br/>
-
-Machine Learning
-
-Artificial Intelligence
 
 Full-Stack Development
 
-AI-Powered Applications
 
-Advanced Problem Solving
 
-</details>
 
-🔗 CONNECT
+
+
+Database & Developer Tools
+
+
+
+
+
+
+
+🚀 Featured Projects
+
+01 · TCE-Connect
+
+Centralized Campus Event & Administration Platform
+
+A centralized event platform designed to replace fragmented communication channels across 12+ college clubs.
+
+Built with: React · Node.js · Supabase PostgreSQL
+
+Engineering highlights
+
+Architected indexed relational database schemas
+
+Implemented JWT authentication
+
+Used Row Level Security (RLS) to protect registration pipelines
+
+Centralized event discovery and administration
+
+Designed for 500+ active students
+
+Impact
+
+↓ 80% manual event distribution overhead
+
+↑ 40% registration throughput and user engagement
+
+02 · AQRO
+
+Intelligent Sanitation Routing & Triage System
+
+An automated civic grievance triage platform developed during a 36-hour hackathon sprint.
+
+Built with: Firebase · NLP
+
+Engineering highlights
+
+Processes unstructured civic complaints
+
+Uses an NLP pipeline to extract urgency metadata
+
+Automates grievance routing
+
+Provides near real-time status synchronization
+
+Impact
+
+↓ 80% manual routing overhead
+
+⚡ Sub-second status synchronization
+
+💼 Experience
+
+Full Stack & Applied Machine Learning Intern
+
+Ariv Executions · June 2026 · Madurai
+
+Engineered a full-stack platform using React and Node.js/Python, integrating machine-learning inference endpoints for real-time predictions.
+
+Designed structured RESTful API contracts
+
+Integrated ML inference into application workflows
+
+Optimized client-side state management
+
+Worked toward low-latency model evaluation
+
+Software Development Intern
+
+Tarcin Robotic LLP · June 2025 · Madurai
+
+Worked on educational automation and software development workflows.
+
+Built Python-based automation pipelines
+
+Converted complex textbook problems into executable code modules
+
+Developed interactive simulations
+
+Collaborated in an Agile environment across two sprint cycles
+
+Tracked bug resolution using OpenProject
+
+Drafted system architecture diagrams
+
+🏆 Achievements
 
 <div align="center">
 
+Achievement
 
+Result
 
+🥇 IEEE CIS Vibe Coding Challenge
 
+1st Place · 2026
+
+🥇 Hackfest
+
+1st Place · 2026
+
+</div>
+
+🎓 Education
+
+Thiagarajar College of Engineering, Madurai
+
+B.E. Computer Science Engineering (AI & ML)
+2024 – 2028 · CGPA: 8.66
+
+V.H.N. Higher Secondary School, Madurai
+
+Class XII (HSC)
+2022 – 2024 · 95.1%
+
+📜 Certifications
+
+IBM Generative AI Engineering Professional Certificate — Coursera
+
+Python for Data Science — NPTEL / Swayam
+
+👥 Leadership & Activities
+
+Department Ambassador — Student Council
+
+Ambassador — AI Consortium
+
+🎯 What I'm Building Toward
+
+                 ┌───────────────────────┐
+                 │     Real Problems     │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │   Software + Data     │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │    Machine Learning   │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │ Scalable Applications │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │   Real-World Impact   │
+                 └───────────────────────┘
+
+My goal is to become an engineer capable of taking a problem from idea → architecture → implementation → intelligent inference → deployment.
+
+📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VISHWAJITH-GS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAJITH-GS&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VISHWAJITH-GS&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 <div align="center">
 
-<sub>Built with 🧠 by Vishwajith G S — this README is a living system, not a static file.</sub>
+"Build systems that solve problems, not just projects that demonstrate skills."
+
+<br>
+
+Let's build something meaningful.
+
+<p>
+  <a href="mailto:vishwajithgs006@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/vishwajithgs/">LinkedIn</a> ·
+  <a href="https://github.com/VISHWAJITH-GS">GitHub</a>
+</p>
 
 </div>
