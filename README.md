@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yaswanth%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishwajith%20GS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yaswanthv.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://yaswanthv.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaswanth%20V-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaswanthv876)
-[![GitHub](https://img.shields.io/badge/GitHub-Yaswanth876-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaswanth876)
-[![Mail](https://img.shields.io/badge/Email-vsyaswanth008%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsyaswanth008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwajith%20GS-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajithgs/)
+[![GitHub](https://img.shields.io/badge/GitHub-VISHWAJITH--GS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAJITH-GS)
+[![Email](https://img.shields.io/badge/Email-vishwajithgs006%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajithgs006@gmail.com)
 
 </div>
 
@@ -14,57 +13,52 @@
 ## About Me
 
 ```python
-class Yaswanth:
-    degree    = "B.E Computer Science Engineering (AI & ML)"
-    college   = "Thiagarajar College of Engineering — TCE'28"
-    cgpa      = 8.6
-    role      = "Software Development Intern @ Tarcin Robotics"
-    interests = ["AI/ML", "Full Stack Development", "System Design"]
-    ranking   = "Top 5% on Skillrack"
-    mission   = "Building intelligent systems with real-world impact"
+class Vishwajith:
+    degree     = "B.E Computer Science Engineering (AI & ML)"
+    college    = "Thiagarajar College of Engineering — TCE'28"
+    cgpa       = 8.66
+    interests  = ["Full-Stack Web Development", "Machine Learning"]
+    focus      = ["Software Engineering", "ML Inference", "Scalable Systems"]
+    mission    = "Building intelligent systems with real-world impact"
 ```
+
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical software products and intelligent systems.
+
+I enjoy working across the stack — from **frontend interfaces and REST APIs to databases and machine-learning inference pipelines** — and turning real-world problems into usable technical solutions.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frontend & Backend**
+### Full Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases**
+### Machine Learning & Data
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**AI / ML**
-
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Tools**
+### Databases & Backend
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools & Core CS
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Core:** Object-Oriented Programming (OOP) · Database Management Systems · RESTful APIs
 
 ---
 
@@ -72,63 +66,58 @@ class Yaswanth:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Clean Madurai Sprint
-> Smart Waste Management Platform
+### TCE-Connect
+> **Centralized Campus Event & Administration Platform**
 
-Civic-tech platform for reporting and monitoring waste issues across the city. Integrates **Google Maps API** for geo-tagged complaints, **Firebase** for real-time tracking, and **Gemini AI** for smart categorization and prioritization.
+A centralized event platform built to replace fragmented department communication channels across **12+ clubs**.
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### TCE Connect
-> Campus Event Management System
-
-Full-stack platform for managing college events with **role-based access control**, real-time dashboards, automated notifications, and a **QR-based attendance system**.
+**Stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/GitHub-tce--connect-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yaswanth876/tce-connect)
+**Engineering**
+- Indexed relational database schemas
+- JWT authentication
+- Row Level Security (RLS)
+- Centralized event registration workflows
+- Built for **500+ active students**
+
+**Impact**
+- ↓ **80%** manual event distribution overhead
+- ↑ **40%** registration throughput and engagement
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-### Intelligent Lab Utilization System
-> AI-Powered Resource Optimization
+### AQRO
+> **Intelligent Sanitation Routing & Triage System**
 
-Monitors and optimizes lab computer usage with a **recommendation engine** built on Scikit-learn. Backend powered by **FastAPI** with analytics via Pandas.
+An automated civic grievance triage platform developed during a **36-hour hackathon sprint**.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Stack**
 
-</td>
-<td width="50%" valign="top">
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat-square&logo=python&logoColor=white)
 
-### Grocery POS System
-> Point of Sale System for Retail
+**Engineering**
+- NLP pipeline for unstructured civic complaints
+- Extracted urgency metadata
+- Automated grievance routing
+- Real-time status synchronization
 
-A full-featured grocery point-of-sale system for managing products, billing, inventory, and transactions — built for real-world retail operations.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/GitHub-grocery--pos--system-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yaswanth876/grocery-pos-system)
+**Impact**
+- ↓ **80%** manual routing overhead
+- ⚡ **Sub-second** status synchronization
 
 </td>
+
 </tr>
 </table>
 
@@ -136,28 +125,82 @@ A full-featured grocery point-of-sale system for managing products, billing, inv
 
 ## Experience
 
-**Software Development Intern** — Tarcin Robotics *(June 2025 – July 2025)*
+### Full Stack & Applied Machine Learning Intern
+**Ariv Executions · June 2026 · Madurai**
 
-![Tarcin](https://img.shields.io/badge/Tarcin%20Robotics-Intern-0f172a?style=flat-square&logo=robot-framework&logoColor=white)
+Engineered a full-stack platform using **React and Node.js/Python**, integrating machine-learning inference endpoints to deliver real-time data predictions.
 
-Worked on real-time development projects, collaborated on debugging and feature improvements, and gained hands-on experience across the full software development lifecycle.
+- Implemented structured **RESTful API contracts**
+- Integrated ML inference endpoints into application workflows
+- Optimized state management for client requests
+- Worked toward low-latency model evaluation
 
 ---
 
-## Achievements & Certifications
+### Software Development Intern
+**Tarcin Robotic LLP · June 2025 · Madurai**
 
-**Achievements**
+Worked on educational automation pipelines and software development workflows.
 
-![Trophy](https://img.shields.io/badge/1st%20Place-Code%20Lens%2C%20TCE%20Coders%20Club-fbbf24?style=flat-square&logo=trophy&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Hackathon-iTech%20Hackfest%20%28SAP%29-0070f3?style=flat-square&logo=sap&logoColor=white)
-![Skillrack](https://img.shields.io/badge/Skillrack-Top%205%25%20%7C%201000%2B%20Problems-22c55e?style=flat-square&logo=leetcode&logoColor=white)
+- Built Python pipelines converting complex textbook problems into executable code modules
+- Developed interactive simulations
+- Collaborated in an Agile team across two sprint cycles
+- Tracked bug resolution using OpenProject
+- Drafted system architecture diagrams
 
-**Certifications**
+---
 
-![IBM](https://img.shields.io/badge/IBM-Developing%20AI%20Apps%20with%20Python%20%26%20Flask-054ada?style=flat-square&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Machine%20Learning%20Introduction-054ada?style=flat-square&logo=ibm&logoColor=white)
-![DeepLearning](https://img.shields.io/badge/DeepLearning.AI-Generative%20AI%20for%20Everyone-ff6b6b?style=flat-square&logo=deeplearning.ai&logoColor=white)
+## Education
+
+### Thiagarajar College of Engineering
+**B.E. Computer Science Engineering (AI & ML)**  
+Madurai, Tamil Nadu · **2024 – 2028**
+
+**CGPA: 8.66**
+
+### V.H.N. Higher Secondary School
+**Class XII (HSC)**  
+Madurai, Tamil Nadu · **2022 – 2024**
+
+**Percentage: 95.1%**
+
+---
+
+## Achievements
+
+<div align="center">
+
+![IEEE](https://img.shields.io/badge/1st%20Place-IEEE%20CIS%20Vibe%20Coding%20Challenge%202026-fbbf24?style=flat-square&logo=trophy&logoColor=white)
+![Hackfest](https://img.shields.io/badge/1st%20Place-Hackfest%202026-0070f3?style=flat-square&logo=trophy&logoColor=white)
+
+</div>
+
+---
+
+## Certifications
+
+![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering%20Professional%20Certificate-054ada?style=flat-square&logo=ibm&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-f97316?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## Leadership & Activities
+
+- 🎓 **Department Ambassador** — Student Council
+- 🤖 **Ambassador** — AI Consortium
+
+---
+
+## Current Focus
+
+```text
+Full-Stack Development    ███████████████████░░
+Machine Learning           ██████████████████░░░
+Software Engineering      █████████████████░░░░
+Scalable Systems          ████████████████░░░░░
+```
+
+Currently focused on strengthening my ability to build **production-oriented full-stack applications**, integrate **machine-learning inference**, and design software that can scale beyond a prototype.
 
 ---
 
@@ -165,16 +208,35 @@ Worked on real-time development projects, collaborated on debugging and feature 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yaswanth876&theme=tokyonight" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yaswanth876&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=VISHWAJITH-GS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
 
-<img src="https://streak-stats.demolab.com?user=Yaswanth876&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAJITH-GS&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VISHWAJITH-GS&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm interested in **AI/ML, full-stack development, software engineering, hackathons, and building technology that solves real-world problems.**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajithgs/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAJITH-GS)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajithgs006@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
+
+### Build. Learn. Ship. Improve.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
