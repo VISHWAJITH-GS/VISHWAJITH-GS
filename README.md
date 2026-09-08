@@ -280,13 +280,11 @@ Currently focused on strengthening my ability to build **production-oriented ful
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VISHWAJITH-GS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAJITH-GS&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=VISHWAJITH-GS&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=VISHWAJITH-GS&theme=transparent&hide_border=true" width="60%" />
 
 </div>
 
