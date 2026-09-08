@@ -12,7 +12,7 @@
   <img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="Portfolio" width="30%" />
 </a>
 
-**Stop the cat to see the portfolio →**
+**Stop the cat to see the portfolio**
 
 <br>
 
@@ -256,8 +256,10 @@ Class XII (HSC) · Madurai, Tamil Nadu · 2022 – 2024
 
 ## 🎯 Leadership & Activities
 
-- 🏛️ **Department Ambassador** — Student Council
-- 🤖 **Ambassador** — AI Consortium
+- **Department Ambassador** — Student Council
+- **Ambassador** — AI Consortium
+- **Joint Secretary** - Data Intelligence Club
+- **Office Bearer** - TCE Coders Club
 
 ---
 
