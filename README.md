@@ -1,243 +1,39 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vishwajith G S</h1>
+<h3 align="center">BE CSE (AI & ML) @ TCE Madurai | Full-Stack & Applied ML Engineer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishwajith%20GS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajith-gs&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajith-gs" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwajith%20GS-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajithgs/)
-[![GitHub](https://img.shields.io/badge/GitHub-VISHWAJITH--GS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAJITH-GS)
-[![Email](https://img.shields.io/badge/Email-vishwajithgs006%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajithgs006@gmail.com)
+- 🔭 I’m currently working on **Scalable backend architectures and full-stack ML inference systems**
 
-</div>
+- 🌱 I’m currently learning **Advanced Data Structures, Distributed Systems & System Design**
 
----
+- 👯 I’m looking to collaborate on **Open-source FinTech, backend microservices, and NLP/ML pipelines**
 
-## About Me
+- 👨‍💻 All of my projects are available at [vishwajith.vercel.app](vishwajith.vercel.app)
 
-```python
-class Vishwajith:
-    degree     = "B.E Computer Science Engineering (AI & ML)"
-    college    = "Thiagarajar College of Engineering — TCE'28"
-    cgpa       = 8.66
-    interests  = ["Full-Stack Web Development", "Machine Learning"]
-    focus      = ["Software Engineering", "ML Inference", "Scalable Systems"]
-    mission    = "Building intelligent systems with real-world impact"
-```
+- 💬 Ask me about **Java, Python, Node.js, ML Pipelines, and Supabase / Relational Databases**
 
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical software products and intelligent systems.
+- 📫 How to reach me **vishwajithgs006@gmail.com**
 
-I enjoy working across the stack — from **frontend interfaces and REST APIs to databases and machine-learning inference pipelines** — and turning real-world problems into usable technical solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/vishwajith_sivakumar_d801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishwajith_sivakumar_d801" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishwajithgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwajithgs" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/33100429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="33100429" height="30" width="40" /></a>
+<a href="https://kaggle.com/vishwajithsivakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishwajithsivakumar" height="30" width="40" /></a>
+<a href="https://instagram.com/thenameisvishwajiith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisvishwajiith" height="30" width="40" /></a>
+<a href="https://dribbble.com/vishwajith_sivakumar_d801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vishwajith_sivakumar_d801" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/goofy_lions_85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="goofy_lions_85" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishwajiithoffi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishwajiithoffi1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishwajith-gs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishwajith-gs" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/vishwajiit0o0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/vishwajiit0o0n" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajith-gs&show_icons=true&locale=en&layout=compact" alt="vishwajith-gs" /></p>
 
-### Languages
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajith-gs&show_icons=true&locale=en" alt="vishwajith-gs" /></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Full Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
-### Machine Learning & Data
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Databases & Backend
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Tools & Core CS
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Core:** Object-Oriented Programming (OOP) · Database Management Systems · RESTful APIs
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### TCE-Connect
-> **Centralized Campus Event & Administration Platform**
-
-A centralized event platform built to replace fragmented department communication channels across **12+ clubs**.
-
-**Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Engineering**
-- Indexed relational database schemas
-- JWT authentication
-- Row Level Security (RLS)
-- Centralized event registration workflows
-- Built for **500+ active students**
-
-**Impact**
-- ↓ **80%** manual event distribution overhead
-- ↑ **40%** registration throughput and engagement
-
-</td>
-
-<td width="50%" valign="top">
-
-### AQRO
-> **Intelligent Sanitation Routing & Triage System**
-
-An automated civic grievance triage platform developed during a **36-hour hackathon sprint**.
-
-**Stack**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat-square&logo=python&logoColor=white)
-
-**Engineering**
-- NLP pipeline for unstructured civic complaints
-- Extracted urgency metadata
-- Automated grievance routing
-- Real-time status synchronization
-
-**Impact**
-- ↓ **80%** manual routing overhead
-- ⚡ **Sub-second** status synchronization
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Experience
-
-### Full Stack & Applied Machine Learning Intern
-**Ariv Executions · June 2026 · Madurai**
-
-Engineered a full-stack platform using **React and Node.js/Python**, integrating machine-learning inference endpoints to deliver real-time data predictions.
-
-- Implemented structured **RESTful API contracts**
-- Integrated ML inference endpoints into application workflows
-- Optimized state management for client requests
-- Worked toward low-latency model evaluation
-
----
-
-### Software Development Intern
-**Tarcin Robotic LLP · June 2025 · Madurai**
-
-Worked on educational automation pipelines and software development workflows.
-
-- Built Python pipelines converting complex textbook problems into executable code modules
-- Developed interactive simulations
-- Collaborated in an Agile team across two sprint cycles
-- Tracked bug resolution using OpenProject
-- Drafted system architecture diagrams
-
----
-
-## Education
-
-### Thiagarajar College of Engineering
-**B.E. Computer Science Engineering (AI & ML)**  
-Madurai, Tamil Nadu · **2024 – 2028**
-
-**CGPA: 8.66**
-
-### V.H.N. Higher Secondary School
-**Class XII (HSC)**  
-Madurai, Tamil Nadu · **2022 – 2024**
-
-**Percentage: 95.1%**
-
----
-
-## Achievements
-
-<div align="center">
-
-![IEEE](https://img.shields.io/badge/1st%20Place-IEEE%20CIS%20Vibe%20Coding%20Challenge%202026-fbbf24?style=flat-square&logo=trophy&logoColor=white)
-![Hackfest](https://img.shields.io/badge/1st%20Place-Hackfest%202026-0070f3?style=flat-square&logo=trophy&logoColor=white)
-
-</div>
-
----
-
-## Certifications
-
-![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering%20Professional%20Certificate-054ada?style=flat-square&logo=ibm&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-f97316?style=flat-square&logo=python&logoColor=white)
-
----
-
-## Leadership & Activities
-
-- 🎓 **Department Ambassador** — Student Council
-- 🤖 **Ambassador** — AI Consortium
-
----
-
-## Current Focus
-
-```text
-Full-Stack Development    ███████████████████░░
-Machine Learning           ██████████████████░░░
-Software Engineering      █████████████████░░░░
-Scalable Systems          ████████████████░░░░░
-```
-
-Currently focused on strengthening my ability to build **production-oriented full-stack applications**, integrate **machine-learning inference**, and design software that can scale beyond a prototype.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VISHWAJITH-GS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAJITH-GS&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=VISHWAJITH-GS&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-## Let's Connect
-
-I'm interested in **AI/ML, full-stack development, software engineering, hackathons, and building technology that solves real-world problems.**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajithgs/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAJITH-GS)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajithgs006@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### Build. Learn. Ship. Improve.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajith-gs&" alt="vishwajith-gs" /></p>
