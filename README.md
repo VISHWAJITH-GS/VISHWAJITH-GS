@@ -280,13 +280,17 @@ Currently focused on strengthening my ability to build **production-oriented ful
 
 <div align="center">
 
-
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=VISHWAJITH-GS&theme=transparent&hide_border=true" width="60%" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/VISHWAJITH-GS/VISHWAJITH-GS/output/github-contribution-grid-snake.svg" width="90%" />
+
 </div>
+
+
 
 ---
 
@@ -308,6 +312,5 @@ I'm interested in **AI/ML, full-stack development, software engineering, hackath
 
 ### Build. Learn. Ship. Improve.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
 </div>
