@@ -81,23 +81,7 @@ I enjoy working across the stack — from **frontend interfaces and REST APIs to
 
 </div>
 
-<div align="center">
 
-| Platform | Username / Handle |
-|:---|:---|
-| GitHub | `VISHWAJITH-GS` |
-| LinkedIn | `vishwajithgs` |
-| Dev.to | `vishwajith_sivakumar_d801` |
-| Stack Overflow | `33100429` |
-| Kaggle | `vishwajithsivakumar` |
-| Instagram | `thenameisvishwajiith` |
-| Dribbble | `vishwajith_sivakumar_d801` |
-| CodeChef | `goofy_lions_85` |
-| HackerRank | `vishwajiithoffi1` |
-| LeetCode | `vishwajith-gs` |
-| GeeksforGeeks | `vishwajiit0o0n` |
-
-</div>
 
 ---
 
